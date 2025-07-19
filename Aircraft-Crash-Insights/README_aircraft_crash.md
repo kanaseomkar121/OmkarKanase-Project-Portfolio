@@ -55,7 +55,7 @@ The Power BI report contains a single-page executive dashboard with the followin
 | File                                   | Description                                                                 |
 |----------------------------------------|-----------------------------------------------------------------------------|
 | `aircraft_crash_insights_project.sql` | SQL script to create tables, insert samples, and run dashboard queries     |
-| `Aviation Project Report -Final.pbix` | Power BI report with interactive crash insights dashboard (not public)     |
+| `Aircraft_Crash_Project_Dashboard-Final.pdf` | Power BI report with interactive crash insights dashboard (not public)     |
 
 ---
 
